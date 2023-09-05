@@ -2,7 +2,7 @@
 
 Tools and Technologies:
 Front-end: HTML, CSS, JavaScript
-
+Back-end:JavaScript 
 IDE: VS-code
 
 Server:Google -chrome
